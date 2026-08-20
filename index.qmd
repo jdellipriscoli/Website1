@@ -1,0 +1,205 @@
+---
+pagetitle: "John Dellipriscoli — Economist & Educator"
+page-layout: full
+toc: false
+---
+
+<!-- ============================================================= -->
+<!-- HERO  (raw HTML — you'll rarely need to touch this)           -->
+<!-- Edit the stat numbers/labels below if your box score changes. -->
+<!-- ============================================================= -->
+
+```{=html}
+<section class="hero" id="top">
+  <div class="pitch-lines" aria-hidden="true">
+    <svg viewBox="0 0 400 400" fill="none" stroke="#17694C" stroke-width="1.1">
+      <rect x="40" y="10" width="320" height="380"/>
+      <line x1="40" y1="200" x2="360" y2="200"/>
+      <circle cx="200" cy="200" r="58"/>
+      <circle cx="200" cy="200" r="2.5" fill="#17694C" stroke="none"/>
+      <rect x="120" y="10" width="160" height="70"/>
+      <rect x="160" y="10" width="80" height="30"/>
+      <rect x="120" y="320" width="160" height="70"/>
+      <rect x="160" y="360" width="80" height="30"/>
+    </svg>
+  </div>
+  <div class="hero-inner">
+    <span class="eyebrow">Assistant Professor of Business · Holy Family University</span>
+    <h1>Economist,<br>educator,<br>researcher.</h1>
+    <p class="thesis">Working at the intersection of <strong>applied economics, finance,</strong> and <strong>the business of sport.</strong></p>
+    <div class="boxscore">
+      <div class="stat"><span class="num">5+</span><span class="lab">Years applied economics<br>&amp; expert testimony</span></div>
+      <div class="stat"><span class="num">14</span><span class="lab">Undergraduate<br>courses taught</span></div>
+      <div class="stat"><span class="num">30+</span><span class="lab">Undergraduates<br>advised each year</span></div>
+    </div>
+  </div>
+</section>
+```
+
+<div class="divider"></div>
+
+<!-- ============================================================= -->
+<!-- ABOUT  — plain Markdown. Edit the paragraphs freely.          -->
+<!-- ============================================================= -->
+
+::: {#about .band}
+::: {.band-inner .reveal}
+[About]{.eyebrow}
+
+## The short version
+
+John Dellipriscoli is an economist and educator whose work bridges applied economics, finance, and the business of sport. He is an Assistant Professor of Business in the School of Business and Technology at Holy Family University, where he teaches across economics and accounting.
+
+Before moving into academia full time, John spent roughly five years in applied economic work — producing economic, demographic, and financial forecasts, designing impact analyses, and serving as a forensic economic expert witness in civil litigation. That practitioner's grounding shapes his teaching: he keeps the focus on the real decisions behind the models.
+
+John's research centers on the economics and organization of sport, which anchors both his Economics of Sport teaching and his doctoral work. He is currently completing an Ed.D. in Organizational Leadership at Holy Family University.
+:::
+:::
+
+<div class="divider"></div>
+
+<!-- ============================================================= -->
+<!-- TEACHING — to add a course, copy a line and change the code.  -->
+<!-- Format:  - [CODE 000]{.code} Course Name                      -->
+<!-- ============================================================= -->
+
+::: {#teaching .band}
+::: {.band-inner .reveal}
+[Teaching]{.eyebrow}
+
+## What I teach
+
+::: {.section-lead}
+Undergraduate economics and accounting, across in-person and asynchronous online sections. My aim is to connect theory to the decisions students actually face — drawing on an applied forecasting and consulting background to keep the material concrete.
+:::
+
+### Holy Family University {.course-head}
+
+::: {.courses}
+- [ECON 203]{.code} Microeconomics
+- [ECON 204]{.code} Macroeconomics
+- [SPMM 310]{.code} Economics of Sport
+- [PPES 381]{.code} Money, Banking & Financial Markets
+- [ACCT 205]{.code} Financial Accounting
+- [ACCT 206]{.code} Managerial Accounting
+- [ACCT 416]{.code} Government & Non-Profit Accounting
+:::
+
+### Norwich University {.course-head}
+
+::: {.courses}
+- [EC201/202]{.code} Macro & Microeconomics
+- [EC106]{.code} The World Economy
+- [EC299]{.code} Sports Economics
+- [EC310]{.code} Money & Banking
+- [EC419]{.code} International Economics
+- [CS120]{.code} Business Applications & Problem-Solving
+:::
+:::
+:::
+
+<!-- ============================================================= -->
+<!-- RESEARCH — dark panel. Edit interest bullets freely.          -->
+<!-- ============================================================= -->
+
+::: {#research .band .dark}
+::: {.band-inner .reveal}
+[Research]{.eyebrow}
+
+## Research & scholarship
+
+::: {.interests}
+- Sports economics — leagues, labor markets, and player valuation
+- International trade and economic development
+- Applied microeconomics and financial forecasting
+- Forensic and applied economic analysis
+- Organizational leadership and performance
+:::
+
+::: {.wip}
+[Work in progress]{.tag}
+
+My doctoral research examines player development and organizational performance in professional soccer academies, connecting leadership climate to on-field and roster-value outcomes. *Ed.D. in Organizational Leadership, expected December 2028.*
+:::
+:::
+:::
+
+<!-- ============================================================= -->
+<!-- WRITING — Substack.                                           -->
+<!-- ============================================================= -->
+
+::: {#writing .band}
+::: {.band-inner .reveal}
+[Writing]{.eyebrow}
+
+## Soccer, economics & the space between
+
+::: {.section-lead}
+On my Substack, I write for a general audience about soccer, economics, and where the two intersect — short essays and research notes published as the ideas develop.
+:::
+
+```{=html}
+<a class="cta cta-ghost" href="https://johndellipriscoli.substack.com/" target="_blank" rel="noopener">Read on Substack &rarr;</a>
+```
+:::
+:::
+
+<div class="divider"></div>
+
+<!-- ============================================================= -->
+<!-- CV — replace cv.pdf in this folder to update the download.    -->
+<!-- ============================================================= -->
+
+::: {#cv .band}
+::: {.band-inner .reveal}
+[Curriculum Vitae]{.eyebrow}
+
+## Background
+
+::: {.cv-list}
+- [In progress]{.yr} Ed.D., Organizational Leadership — Holy Family University *(expected 2028)*
+- [2011–2013]{.yr} M.S., International & Development Economics — University of San Francisco *· Jacques Artus Award*
+- [2005–2009]{.yr} B.A., Economics & International Studies — Manhattan College
+- [2013–2018]{.yr} Economist & Data Analyst — Economic & Policy Resources / VT Dept. of Labor
+:::
+
+```{=html}
+<a class="cta" href="cv.html">View full CV &rarr;</a>
+```
+:::
+:::
+
+<!-- ============================================================= -->
+<!-- CONTACT / FOOTER                                              -->
+<!-- ============================================================= -->
+
+::: {#contact .band .dark .footer}
+::: {.band-inner .reveal}
+[Contact]{.eyebrow}
+
+## Get in touch
+
+```{=html}
+<div class="contact-row">
+  <div><span class="k">Email</span><a href="mailto:jdellipriscoli@holyfamily.edu">jdellipriscoli@holyfamily.edu</a></div>
+  <div><span class="k">Writing</span><a href="https://johndellipriscoli.substack.com/" target="_blank" rel="noopener">Substack</a></div>
+  <div><span class="k">Department</span>School of Business &amp; Technology</div>
+  <div><span class="k">Institution</span>Holy Family University, Philadelphia, PA</div>
+</div>
+<p class="colophon">&copy; <span id="yr"></span> John Dellipriscoli · Philadelphia, PA</p>
+```
+:::
+:::
+
+```{=html}
+<script>
+  document.getElementById('yr').textContent = new Date().getFullYear();
+  (function(){
+    if (window.matchMedia('(prefers-reduced-motion: reduce)').matches) return;
+    var io = new IntersectionObserver(function(entries){
+      entries.forEach(function(e){ if(e.isIntersecting){ e.target.classList.add('in'); io.unobserve(e.target); } });
+    },{threshold:.12});
+    document.querySelectorAll('.reveal').forEach(function(el){ io.observe(el); });
+  })();
+</script>
+```

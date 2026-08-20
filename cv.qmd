@@ -1,0 +1,178 @@
+---
+pagetitle: "CV — John Dellipriscoli"
+page-layout: full
+toc: false
+---
+
+<!-- ================================================================= -->
+<!-- CV PAGE                                                            -->
+<!-- To add an entry, copy one :::: {.cv-entry} ... :::: block and edit -->
+<!-- the {.meta} (left column) and {.detail} (right column) text.       -->
+<!-- ================================================================= -->
+
+::: {.band}
+::: {.band-inner .reveal}
+
+[Curriculum Vitae]{.eyebrow}
+
+# John Dellipriscoli {.cv-name}
+
+[Economist & educator · Holy Family University, Philadelphia, PA]{.cv-lead}
+
+```{=html}
+<a class="cta cta-ghost cta-sm" href="cv.pdf" download>Download PDF</a>
+```
+
+## Education {.cv-h}
+
+:::: {.cv-entry}
+::: {.meta}
+In progress
+:::
+::: {.detail}
+[Ed.D., Organizational Leadership]{.role} — [Holy Family University, Philadelphia, PA]{.org}<br>Expected December 2028
+:::
+::::
+
+:::: {.cv-entry}
+::: {.meta}
+2011–2013
+:::
+::: {.detail}
+[M.S., International & Development Economics]{.role} — [University of San Francisco, San Francisco, CA]{.org}<br>Jacques Artus Award — Outstanding Graduate Student in Cohort
+:::
+::::
+
+:::: {.cv-entry}
+::: {.meta}
+2005–2009
+:::
+::: {.detail}
+[B.A., Economics & International Studies]{.role} — [Manhattan College, Riverdale, NY]{.org}
+:::
+::::
+
+## Academic Appointments {.cv-h}
+
+:::: {.cv-entry}
+::: {.meta}
+2024–Present
+:::
+::: {.detail}
+[Assistant Professor of Business]{.role} — [Holy Family University, School of Business & Technology]{.org}
+:::
+::::
+
+:::: {.cv-entry}
+::: {.meta}
+2019–2024
+:::
+::: {.detail}
+[Lecturer of Economics]{.role} — [Norwich University, School of Business & Management]{.org}
+:::
+::::
+
+## Teaching {.cv-h}
+
+:::: {.cv-entry}
+::: {.meta}
+Holy Family
+University
+:::
+::: {.detail}
+ECON 203 Microeconomics · ECON 204 Macroeconomics · SPMM 310 Economics of Sport · PPES 381 Money, Banking & Financial Markets · ACCT 205 Financial Accounting · ACCT 206 Managerial Accounting · ACCT 416 Government & Non-Profit Accounting
+:::
+::::
+
+:::: {.cv-entry}
+::: {.meta}
+Norwich
+University
+:::
+::: {.detail}
+EC201 / EC202 Macro & Microeconomics · EC106 The World Economy · EC299 Sports Economics · EC310 Money & Banking · EC419 International Economics · CS120 Business Applications & Problem-Solving
+:::
+::::
+
+## Professional Service {.cv-h}
+
+:::: {.cv-entry}
+::: {.meta}
+Holy Family
+University
+:::
+::: {.detail}
+[PPES Program Development Committee]{.role} — [School of Arts & Sciences]{.org}<br>Developing the upper-tier economics courses for the Philosophy, Political Science, Economics & Sociology major.
+:::
+::::
+
+:::: {.cv-entry}
+::: {.meta}
+2025–2026
+:::
+::: {.detail}
+[Taylor Award Committee — Interim Chair]{.role} — [School of Business & Technology]{.org}<br>Voting member of the committee that approves faculty research grants.
+:::
+::::
+
+:::: {.cv-entry}
+::: {.meta}
+Advising
+:::
+::: {.detail}
+Academic advisor to 30–40 undergraduates per year at Holy Family University, and 20–30 per year at Norwich University.
+:::
+::::
+
+## Consulting & Industry {.cv-h}
+
+:::: {.cv-entry}
+::: {.meta}
+2018
+:::
+::: {.detail}
+[Data Analyst]{.role} — [State of Vermont, Department of Labor, Montpelier, VT]{.org}
+
+- Compiled and analyzed labor market information — employment, wage, and occupational data — to support state workforce policy and reporting.
+- Supported program evaluation by analyzing outcomes data for state workforce development initiatives.
+:::
+::::
+
+:::: {.cv-entry}
+::: {.meta}
+2013–2017
+:::
+::: {.detail}
+[Economist]{.role} — [Economic & Policy Resources, Inc., Williston, VT]{.org}
+
+- Produced economic, demographic, and financial forecasts to inform policy and financial decisions for private firms and state and local governments.
+- Designed and executed impact analyses measuring the effect of policy and investment on local, national, and international economies.
+- Served as a forensic economic expert witness in civil litigation, performing analyses and testifying in depositions and court.
+:::
+::::
+
+## Technical Skills {.cv-h}
+
+:::: {.cv-entry}
+::: {.meta}
+Tools
+:::
+::: {.detail}
+Stata · R · Python · Bloomberg Terminal · Microsoft Office · LMS platforms (Canvas, Moodle)
+:::
+::::
+
+:::
+:::
+
+```{=html}
+<script>
+  (function(){
+    if (window.matchMedia('(prefers-reduced-motion: reduce)').matches) return;
+    var io = new IntersectionObserver(function(entries){
+      entries.forEach(function(e){ if(e.isIntersecting){ e.target.classList.add('in'); io.unobserve(e.target); } });
+    },{threshold:.08});
+    document.querySelectorAll('.reveal').forEach(function(el){ io.observe(el); });
+  })();
+</script>
+```

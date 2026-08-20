@@ -1,0 +1,37 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "John Dellipriscoli"
+  description: "Economist and educator at Holy Family University, working at the intersection of applied economics, finance, and the business of sport."
+  navbar:
+    pinned: true
+    left:
+      - text: "John Dellipriscoli"
+        href: index.html
+    right:
+      - text: About
+        href: index.html#about
+      - text: Teaching
+        href: index.html#teaching
+      - text: Research
+        href: index.html#research
+      - text: Writing
+        href: index.html#writing
+      - text: CV
+        href: cv.html
+      - text: Contact
+        href: index.html#contact
+
+format:
+  html:
+    theme: theme.scss
+    toc: false
+    page-layout: full
+    anchor-sections: false
+    include-in-header:
+      - text: |
+          <link rel="preconnect" href="https://fonts.googleapis.com">
+          <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+          <link href="https://fonts.googleapis.com/css2?family=Archivo:wght@500;600;700;800&family=Newsreader:opsz,wght@6..72,400;6..72,500&family=Space+Mono:wght@400;700&display=swap" rel="stylesheet">
