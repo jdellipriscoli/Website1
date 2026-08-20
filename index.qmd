@@ -23,14 +23,18 @@ toc: false
       <rect x="160" y="360" width="80" height="30"/>
     </svg>
   </div>
-  <div class="hero-inner">
-    <span class="eyebrow">Assistant Professor of Business · Holy Family University</span>
-    <h1>Economist,<br>educator,<br>researcher.</h1>
-    <p class="thesis">Working at the intersection of <strong>applied economics, finance,</strong> and <strong>the business of sport.</strong></p>
-    <div class="boxscore">
-      <div class="stat"><span class="num">5+</span><span class="lab">Years applied economics<br>&amp; expert testimony</span></div>
-      <div class="stat"><span class="num">14</span><span class="lab">Undergraduate<br>courses taught</span></div>
-      <div class="stat"><span class="num">30+</span><span class="lab">Undergraduates<br>advised each year</span></div>
+  <div class="hero-inner hero-grid">
+    <div class="hero-text">
+      <span class="eyebrow">Assistant Professor of Business · Holy Family University</span>
+      <h1>Economist,<br>educator,<br>researcher.</h1>
+      <p class="thesis">Working at the intersection of <strong>applied economics, finance,</strong> and <strong>the business of sport.</strong></p>
+      <div class="boxscore">
+        <div class="stat"><span class="num">5+</span><span class="lab">Years applied economics<br>&amp; expert testimony</span></div>
+        <div class="stat"><span class="num">14</span><span class="lab">Undergraduate<br>courses taught</span></div>
+      </div>
+    </div>
+    <div class="hero-photo">
+      <img src="headshot.jpg" alt="John Dellipriscoli" />
     </div>
   </div>
 </section>
@@ -46,13 +50,13 @@ toc: false
 ::: {.band-inner .reveal}
 [About]{.eyebrow}
 
-## The short version
+## Biography
 
-John Dellipriscoli is an economist and educator whose work bridges applied economics, finance, and the business of sport. He is an Assistant Professor of Business in the School of Business and Technology at Holy Family University, where he teaches across economics and accounting.
+I'm an economist and educator whose work bridges applied economics, finance, and the business of sport. As an Assistant Professor of Business in the School of Business and Technology at Holy Family University, I teach across economics and accounting.
 
-Before moving into academia full time, John spent roughly five years in applied economic work — producing economic, demographic, and financial forecasts, designing impact analyses, and serving as a forensic economic expert witness in civil litigation. That practitioner's grounding shapes his teaching: he keeps the focus on the real decisions behind the models.
+Before moving into academia full time, I spent roughly five years in applied economic work — producing economic, demographic, and financial forecasts, designing impact analyses, and serving as a forensic economic expert witness in civil litigation. That practitioner's grounding shapes how I teach: I keep the focus on the real decisions behind the models.
 
-John's research centers on the economics and organization of sport, which anchors both his Economics of Sport teaching and his doctoral work. He is currently completing an Ed.D. in Organizational Leadership at Holy Family University.
+My research centers on the economics and organization of sport, which anchors both my Economics of Sport teaching and my doctoral work. I'm currently completing an Ed.D. in Organizational Leadership at Holy Family University.
 :::
 :::
 
